@@ -3,37 +3,36 @@
 // ------------------------------------------------------------------
 
 @font-face {
-	font-family: UGentPanno;
-	font-weight: 400; // actually 300, but this makes more contrast with bold
-	src: url("../fonts/ugentpannotext-semilight-web.eot");
-	src: url("../fonts/ugentpannotext-semilight-web.eot")  format("embedded-opentype"),
-		 url("../fonts/ugentpannotext-semilight-web.woff") format("woff"),
-		 url("../fonts/ugentpannotext-semilight-web.ttf")  format("truetype")
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/pt-sans-regular.ttf")  format("truetype")
 }
 
 @font-face {
-	font-family: UGentPanno;
-	font-weight: 500; // actually 400
-	src: url("../fonts/ugentpannotext-normal-web.eot");
-	src: url("../fonts/ugentpannotext-normal-web.eot")  format("embedded-opentype"),
-		 url("../fonts/ugentpannotext-normal-web.woff") format("woff"),
-		 url("../fonts/ugentpannotext-normal-web.ttf")  format("truetype")
+	font-family: "PT Sans";
+	font-style: italic;
+	font-weight: 400;
+	src: url("../fonts/pt-sans-italic.ttf")  format("truetype")
 }
 
 @font-face {
-	font-family: UGentPanno;
+	font-family: "PT Sans";
+	font-style: normal;
 	font-weight: 600;
-	src: url("../fonts/ugentpannotext-medium-web.eot");
-	src: url("../fonts/ugentpannotext-medium-web.eot")  format("embedded-opentype"),
-		 url("../fonts/ugentpannotext-medium-web.woff") format("woff"),
-		 url("../fonts/ugentpannotext-medium-web.ttf")  format("truetype")
+	src: url("../fonts/pt-sans-narrow-bold.ttf")  format("truetype")
 }
 
 @font-face {
-	font-family: UGentPanno;
+	font-family: "PT Sans";
+	font-style: normal;
 	font-weight: 700;
-	src: url("../fonts/ugentpannotext-semibold-web.eot");
-	src: url("../fonts/ugentpannotext-semibold-web.eot")  format("embedded-opentype"),
-		 url("../fonts/ugentpannotext-semibold-web.woff") format("woff"),
-		 url("../fonts/ugentpannotext-semibold-web.ttf")  format("truetype")
+	src: url("../fonts/pt-sans-bold.ttf")  format("truetype")
+}
+
+@font-face {
+	font-family: "PT Sans";
+	font-style: italic;
+	font-weight: 700;
+	src: url("../fonts/pt-sans-bold-italic.ttf")  format("truetype")
 }
