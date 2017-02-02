@@ -1,3 +1,3 @@
-# UGent theme for Shower
+# Open Webslides theme for Shower
 
 Based on the [Ribbon theme](http://shwr.me/shower/themes/ribbon/).
