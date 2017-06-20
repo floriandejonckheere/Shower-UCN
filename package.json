@@ -1,19 +1,19 @@
 {
-  "name": "shower-ugent",
-  "description": "UGent theme for Shower HTML presentation engine",
-  "version": "2.0.8",
+  "name": "shower-ows",
+  "description": "Open Webslides theme for Shower HTML presentation engine",
+  "version": "3.0.0",
   "author": {
-    "name": "UGent",
-    "url": "http://www.ugent.be/"
+    "name": "Open Webslides",
+    "url": "http://openwebslides.ugent.be/"
   },
-  "homepage": "https://github.com/RubenVerborgh/Shower-UGent",
-  "repository": "https://github.com/RubenVerborgh/Shower-UGent",
+  "homepage": "https://github.com/OpenWebslides/Shower-OWS",
+  "repository": "https://github.com/OpenWebslides/Shower-OWS",
   "keywords": [
     "shower",
     "presentation",
     "ribbon",
     "theme",
-    "ugent"
+    "openwebslides"
   ],
   "files": [
     "docs/**",
