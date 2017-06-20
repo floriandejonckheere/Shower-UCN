@@ -55,7 +55,7 @@ gulp.task('styles', () => {
 			.pipe(rename((path) => {
 				path.basename += `-${ ratio.replace('/', 'x') }`;
 			}))
-			.pipe(gulp.dest('styles'))
+			.pipe(gulp.dest('theme'))
 			.pipe(sync.stream());
 	});
 });
